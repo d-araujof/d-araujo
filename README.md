@@ -29,3 +29,9 @@
     <img align="center" alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
     <img align="center" alt="Mongo DB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
 </div>
+
+<div align="center">
+  
+  ![Snake animation](https://github.com/d-araujo/d-araujo/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
