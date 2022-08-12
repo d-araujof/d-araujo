@@ -8,6 +8,10 @@
    <a href="https://www.instagram.com/d_araujof_/" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a>
 </div>
 
+<div align="center">
+<a href="https://github.com/d-araujo/d-araujo/blob/main/Curr%C3%ADculo.pdf" target="_blank" >Currículo</a>
+</div>
+
 ###
 
 <div align="center">
@@ -28,6 +32,10 @@
     <img align="center" alt="Express.js" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge">
     <img align="center" alt="Heroku" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
     <img align="center" alt="Mongo DB" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white">
+</div>
+
+<div style="display: inline_block"><br/>
+  <img align="center" alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
 </div>
 
 <div align="center">
