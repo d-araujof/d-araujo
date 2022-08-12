@@ -1,6 +1,8 @@
 
 ### Olá! eu sou a Maria Eduarda 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=CE5E80&size=35&center=true&vCenter=true&width=1000&lines=Seja+Bem+Vindo!+:%29)](https://git.io/typing-svg)
+
 <div align="center">
   <a href="https://www.instagram.com/d_araujof_/" target="_blank"><img alt="Instagram" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/d-araujof/" target="_blank"><img alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
