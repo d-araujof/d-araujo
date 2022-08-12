@@ -14,8 +14,6 @@
 <a href="https://github.com/d-araujo/d-araujo/blob/main/Curr%C3%ADculo.pdf" target="_blank">Currículo</a>
 </div>
 
-###
-
 <div align="center">
   <a href="https://github.com/d-araujo">
     <img height="150em" src="https://github-readme-stats.vercel.app/api?username=d-araujo&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
@@ -45,6 +43,8 @@
   ![Snake animation](https://github.com/d-araujo/d-araujo/blob/output/github-contribution-grid-snake.svg)
   
 </div>
+
+
 
 <div align="center">
 ❤️‍
