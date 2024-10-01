@@ -51,8 +51,4 @@ Contato:
 📧 dudaafernandes06@gmail.com
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=d-araujof&show_icons=true&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d-araujof&layout=compact&theme=dracula)
-
 ![Snake animation](https://github.com/d-araujof/d-araujof/workflows/snake.yml)
