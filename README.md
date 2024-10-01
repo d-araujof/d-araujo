@@ -52,8 +52,8 @@ Ferramentas:
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 
+#
+
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=d-araujof&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=d-araujof&hide_progress=true&theme=radical)
-
-
-![Snake animation](https://github.com/d-araujof/d-araujof/workflows/snake.yml)
